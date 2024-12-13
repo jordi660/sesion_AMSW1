@@ -1,4 +1,6 @@
+
 linea desde la rama alumno1
+linea1 desde rama main 
 
 lista = [100,89,75,27,3]
 def doPasada(lista):
