@@ -8,7 +8,7 @@ linea1 desde rama main
 3
 
 4
-
+6
 lista = [100,89,75,27,3]
 def doPasada(lista):
     resultado = []
